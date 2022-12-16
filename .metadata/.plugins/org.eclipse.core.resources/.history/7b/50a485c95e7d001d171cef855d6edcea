@@ -1,0 +1,20 @@
+package com.vignesh.junit;
+
+import org.junit.jupiter.api.Test;
+
+public class MyBeforeAfterTest {
+	
+	@Test
+	void test1() {
+		System.out.println("test1");
+	}
+	@Test
+	void test1() {
+		System.out.println("test1");
+	}
+	@Test
+	void test1() {
+		System.out.println("test1");
+	}
+
+}

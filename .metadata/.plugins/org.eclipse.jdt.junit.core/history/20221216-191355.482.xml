@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="MyMathTest" project="junitin5steps" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.vignesh.junit.MyMathTest" time="0.037" displayname="MyMathTest" uniqueid="[engine:junit-jupiter]/[class:com.vignesh.junit.MyMathTest]">
+    <testcase name="calculateSum_ThreeMemberArray" classname="com.vignesh.junit.MyMathTest" time="0.034" displayname="calculateSum_ThreeMemberArray()" uniqueid="[engine:junit-jupiter]/[class:com.vignesh.junit.MyMathTest]/[method:calculateSum_ThreeMemberArray()]"/>
+    <testcase name="calculateSum_ZeroLengthArray" classname="com.vignesh.junit.MyMathTest" time="0.002" displayname="calculateSum_ZeroLengthArray()" uniqueid="[engine:junit-jupiter]/[class:com.vignesh.junit.MyMathTest]/[method:calculateSum_ZeroLengthArray()]"/>
+  </testsuite>
+</testrun>

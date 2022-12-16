@@ -1,0 +1,12 @@
+package com.example.demo.jdbc;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class PersonJdbcDao {
+	
+	public List<Person> findAll() {
+		
+	}
+
+}

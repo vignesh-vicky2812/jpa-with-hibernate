@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="MyBeforeAfterTest" project="junitin5steps" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="com.vignesh.junit.MyBeforeAfterTest" time="0.043" displayname="MyBeforeAfterTest" uniqueid="[engine:junit-jupiter]/[class:com.vignesh.junit.MyBeforeAfterTest]">
+    <testcase name="test1" classname="com.vignesh.junit.MyBeforeAfterTest" time="0.035" displayname="test1()" uniqueid="[engine:junit-jupiter]/[class:com.vignesh.junit.MyBeforeAfterTest]/[method:test1()]"/>
+    <testcase name="test2" classname="com.vignesh.junit.MyBeforeAfterTest" time="0.003" displayname="test2()" uniqueid="[engine:junit-jupiter]/[class:com.vignesh.junit.MyBeforeAfterTest]/[method:test2()]"/>
+    <testcase name="test3" classname="com.vignesh.junit.MyBeforeAfterTest" time="0.002" displayname="test3()" uniqueid="[engine:junit-jupiter]/[class:com.vignesh.junit.MyBeforeAfterTest]/[method:test3()]"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,9 @@
+package com.vignesh.junit;
+
+
+public class MyMath {
+	
+	public int calculateSum() {
+		
+	}
+}

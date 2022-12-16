@@ -1,0 +1,14 @@
+package com.example.demo.jpa;
+
+import org.springframework.jdbc.core.BeanPropertyRowMapper;
+
+import com.example.demo.entity.Person;
+
+public class PersonJpaRepository {
+	
+	public Person findById(int id) {
+		return jdbcTemplate.queryForObject("select * from person where id=?",
+				new BeanPropertyRowMapper<Person>(Person.class), new Object[] { id });
+	}
+
+}
