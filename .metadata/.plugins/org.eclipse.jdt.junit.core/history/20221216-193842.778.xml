@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="MyAssertTest" project="junitin5steps" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="com.vignesh.junit.MyAssertTest" time="0.03" displayname="MyAssertTest" uniqueid="[engine:junit-jupiter]/[class:com.vignesh.junit.MyAssertTest]">
-    <testcase name="test" classname="com.vignesh.junit.MyAssertTest" time="0.03" displayname="test()" uniqueid="[engine:junit-jupiter]/[class:com.vignesh.junit.MyAssertTest]/[method:test()]"/>
-  </testsuite>
-</testrun>

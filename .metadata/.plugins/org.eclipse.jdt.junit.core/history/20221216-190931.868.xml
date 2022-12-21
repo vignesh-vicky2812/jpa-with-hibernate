@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="MyMathTest" project="junitin5steps" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="com.vignesh.junit.MyMathTest" time="0.036" displayname="MyMathTest" uniqueid="[engine:junit-jupiter]/[class:com.vignesh.junit.MyMathTest]">
-    <testcase name="test" classname="com.vignesh.junit.MyMathTest" time="0.032" displayname="test()" uniqueid="[engine:junit-jupiter]/[class:com.vignesh.junit.MyMathTest]/[method:test()]"/>
-    <testcase name="test1" classname="com.vignesh.junit.MyMathTest" time="0.002" displayname="test1()" uniqueid="[engine:junit-jupiter]/[class:com.vignesh.junit.MyMathTest]/[method:test1()]"/>
-  </testsuite>
-</testrun>
